@@ -27,5 +27,6 @@
     "dark": "One Dark"
   },
   "autosave": "on_focus_change",
-  "soft_wrap": "editor_width"
+  "soft_wrap": "editor_width",
+  "tab_size": 2
 }
